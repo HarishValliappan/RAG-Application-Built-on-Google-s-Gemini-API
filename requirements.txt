@@ -1,6 +1,6 @@
 langchain
 langchain_community
-langchain_openai
+langchain-google-genai
 python-dotenv
 streamlit
 langchain_experimental
