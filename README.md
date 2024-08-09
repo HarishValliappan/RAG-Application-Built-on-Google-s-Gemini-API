@@ -12,7 +12,7 @@ This project is a Retrieval-Augmented Generation (RAG) application that leverage
 
 You can see a working demonstration of the project in the video below:
 
-[![RAG Demonstration](RAG_demonstration.png)](RAG_demonstration.mp4)
+[![RAG Demonstration](RAG_demonstration.mp4)](RAG_demonstration.mp4)
 
 > Click on the image to play the video.
 
@@ -33,8 +33,8 @@ You can see a working demonstration of the project in the video below:
    pip install -r requirements.txt
 
 4. Set up environment variables:
-   Create a .env file in the root directory.
-   Add your Google API key and any other required environment variables.
+   - Create a .env file in the root directory.
+   - Add your Google API key and any other required environment variables.
   
 
 ## Usage
