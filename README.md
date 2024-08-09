@@ -1,4 +1,4 @@
-# RAG Application Built on Google's Gemini API
+# RAG Application Built on Google's Gemini API with Bentley Data
 
 This project is a Retrieval-Augmented Generation (RAG) application that leverages Google's Gemini API for advanced natural language processing and document retrieval. The application is designed to answer questions by retrieving relevant documents from provided URLs and generating concise answers using the Gemini model.
 
@@ -49,6 +49,11 @@ You can see a working demonstration of the project in the video below:
 - **requirements.txt**: List of required Python packages.
 - **.env**: Environment variables file (not included in the repository).
 - **RAG_demonstration.mp4**: Demonstration video.
+
+## About Bentley Data
+
+This project utilizes data from Bentley's official website, including information on accessories, history, heritage, and hybrid models, to demonstrate the capabilities of a Retrieval-Augmented Generation (RAG) system built on Google's Gemini API.
+
 
 ## Technologies Used
 
