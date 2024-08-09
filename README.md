@@ -22,3 +22,6 @@ You can see a working demonstration of the project in the video below:
    ```bash
    git clone https://github.com/yourusername/RAG_project.git
    cd RAG_project
+
+2. Create a virtual environment and activate it:
+   ```bash
